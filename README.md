@@ -1,4 +1,4 @@
-## Olá Mundo, sou o dev. Lucas Lopes 👋
+## Olá, sou o Dev. Lucas Lopes 👋
 
 - 🔭 Atualmente eu trabalho com front-end
 - 🌱Estou estudando Javascript
